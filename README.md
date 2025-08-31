@@ -29,11 +29,11 @@ Specifically, this project aims to:
 
 This tool checks a password against five security criteria:
 
-✅ Minimum length of 8 characters.
-✅ Contains at least one uppercase letter.
-✅ Contains at least one lowercase letter.
-✅ Contains at least one digit.
-✅ Contains at least one special character (e.g., !@#$%^&*).
+- Minimum length of 8 characters.
+- Contains at least one uppercase letter.
+- Contains at least one lowercase letter.
+- Contains at least one digit.
+- Contains at least one special character (e.g., !@#$%^&*).
 
 The program assigns a strength level based on how many criteria are met:
 - Strong → All 5 criteria satisfied.
